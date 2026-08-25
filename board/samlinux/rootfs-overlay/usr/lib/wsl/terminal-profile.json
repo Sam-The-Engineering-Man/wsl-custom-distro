@@ -1,0 +1,38 @@
+{
+  "profiles": [
+    {
+      "colorScheme": "SamLinux Dark",
+      "cursorShape": "filledBox",
+      "fontWeight": "normal",
+      "padding": "12"
+    }
+  ],
+  "schemes": [
+    {
+      "name": "SamLinux Dark",
+
+      "background": "#090D12",
+      "foreground": "#D8DEE9",
+      "cursorColor": "#7EE787",
+      "selectionBackground": "#263646",
+
+      "black": "#090D12",
+      "red": "#FF6B6B",
+      "green": "#7EE787",
+      "yellow": "#FFD866",
+      "blue": "#82AAFF",
+      "purple": "#C792EA",
+      "cyan": "#89DDFF",
+      "white": "#D8DEE9",
+
+      "brightBlack": "#5C6773",
+      "brightRed": "#FF8484",
+      "brightGreen": "#A7F3B2",
+      "brightYellow": "#FFE58A",
+      "brightBlue": "#A8C7FA",
+      "brightPurple": "#D7AFFF",
+      "brightCyan": "#B5F4FF",
+      "brightWhite": "#FFFFFF"
+    }
+  ]
+}
