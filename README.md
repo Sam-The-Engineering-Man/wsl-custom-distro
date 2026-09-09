@@ -1,8 +1,13 @@
 # Overview
-SamLinux is a custom WSL2 distro built from scratch using Buildroot, BusyBox, systemd, and WSL’s native packaging support.
+## What is SamLinux?
+
+SamLinux is a custom WSL2 Linux distro built from scratch using Buildroot, BusyBox, glibc, systemd, Bash, Python, and WSL's native .wsl packaging format.
 
 Here are the instructions on how to follow along with my custom WSL build. Feel free to modify the code, fork, and learn from it!
 If you have any questions leave a comment on the video or in my community posts section and I will happily answer them!
+
+For the full walkthrough and explanation of how SamLinux is built, watch the accompanying YouTube video:
+
 
 # Steps
 Download buildroot (You can use a newer version of Buildroot, but I have not tested other versions):  
